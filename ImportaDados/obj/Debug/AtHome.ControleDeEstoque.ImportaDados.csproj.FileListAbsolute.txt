@@ -1,0 +1,15 @@
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\bin\Debug\ImportaDados.exe.config
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\bin\Debug\ImportaDados.exe
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\bin\Debug\ImportaDados.pdb
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\bin\Debug\AtHome.ControleDeEstoque.Data.dll
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\bin\Debug\AtHome.ControleDeEstoque.Domain.dll
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\bin\Debug\System.Data.SqlServerCe.dll
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\bin\Debug\AtHome.ControleDeEstoque.Data.pdb
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\bin\Debug\AtHome.ControleDeEstoque.Data.dll.config
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\bin\Debug\AtHome.ControleDeEstoque.Domain.pdb
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\obj\Debug\AtHome.ControleDeEstoque.ImportaDados.csprojAssemblyReference.cache
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\obj\Debug\AtHome.ControleDeEstoque.ImportaDados.csproj.CoreCompileInputs.cache
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\obj\Debug\AtHome.ControleDeEstoque.ImportaDados.csproj.CopyComplete
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\obj\Debug\ImportaDados.exe
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\ImportaDados\obj\Debug\ImportaDados.pdb

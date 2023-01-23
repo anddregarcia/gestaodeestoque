@@ -1,0 +1,11 @@
+C:\Users\NoteAndre\Documents\André\C#\Controle de Estoque\AtHome.ControleDeEstoque\AtHome.ControleDeEstoque.Domain\bin\Debug\AtHome.ControleDeEstoque.Domain.dll
+C:\Users\NoteAndre\Documents\André\C#\Controle de Estoque\AtHome.ControleDeEstoque\AtHome.ControleDeEstoque.Domain\bin\Debug\AtHome.ControleDeEstoque.Domain.pdb
+C:\Users\NoteAndre\Documents\André\C#\Controle de Estoque\AtHome.ControleDeEstoque\AtHome.ControleDeEstoque.Domain\obj\Debug\AtHome.ControleDeEstoque.Domain.dll
+C:\Users\NoteAndre\Documents\André\C#\Controle de Estoque\AtHome.ControleDeEstoque\AtHome.ControleDeEstoque.Domain\obj\Debug\AtHome.ControleDeEstoque.Domain.pdb
+C:\Users\NoteAndre\Documents\André\C#\Controle de Estoque\AtHome.ControleDeEstoque\AtHome.ControleDeEstoque.Domain\obj\Debug\AtHome.ControleDeEstoque.Domain.csprojResolveAssemblyReference.cache
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\AtHome.ControleDeEstoque.Domain\bin\Debug\AtHome.ControleDeEstoque.Domain.dll
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\AtHome.ControleDeEstoque.Domain\bin\Debug\AtHome.ControleDeEstoque.Domain.pdb
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\AtHome.ControleDeEstoque.Domain\obj\Debug\AtHome.ControleDeEstoque.Domain.csprojAssemblyReference.cache
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\AtHome.ControleDeEstoque.Domain\obj\Debug\AtHome.ControleDeEstoque.Domain.csproj.CoreCompileInputs.cache
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\AtHome.ControleDeEstoque.Domain\obj\Debug\AtHome.ControleDeEstoque.Domain.dll
+C:\AtHome\Gestão de Estoque\ControleDeEstoque\AtHome.ControleDeEstoque\AtHome.ControleDeEstoque.Domain\obj\Debug\AtHome.ControleDeEstoque.Domain.pdb
